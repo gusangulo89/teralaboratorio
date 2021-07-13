@@ -1,0 +1,23 @@
+
+*GENERALES*
+-Actualizar sesiones en todas las paginas
+-Actualizar NAVBAR y SIDEBAR en todas las paginas para que tenga el usuario de la sesion
+-
+-Configurar Datatables en servidor local
+-Actualizar LOGOUT en todas las paginas
+-Revisar hacer el header y footer con clases de javascript para poner links activos
+-Empezar formularios de 
+-CREAR MODULO de Analisis y pruebas externas
+
+
+
+*ESPECIFICAS*
+-Agregar modulo de "tiempo x tiempo"
+-Agregar modulo "tipo twitter" para mensajes de todos en el dashboard
+-Actualizar badge del OT.php
+
+
+
+*POR MODULO*
+-Crear TABLA areas para las OTs
+-Crear
